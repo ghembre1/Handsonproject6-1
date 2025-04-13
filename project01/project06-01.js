@@ -5,7 +5,7 @@
 
       Project to validate a form used for setting up a new account
       Author: Gary Hembree
-      Date:   4-17-25
+      Date:   4-10-25
 
       Filename: project06-01.js
 */
